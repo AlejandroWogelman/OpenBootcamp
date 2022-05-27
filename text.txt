@@ -1,0 +1,15 @@
+
+Src: Components:
+            container: Componentes de orden superior, componentes que reenderizan (Logica y datos).
+     Hooks      => Logica que lenga que ver con los hooks.
+     routes     => Componentes a reenderizar segun ruta
+     pages      => Componentes que reendericen una pagina
+            home : Pagina de home
+            auth : Login, cambio de contraseña, registro
+            404  : Pagina de 404 cuando una ruta no exista
+     Models     => Tipos de datos con los que vamos a trabajar
+
+
+
+
+
